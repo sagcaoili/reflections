@@ -1,0 +1,51 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Seeing the differences in the two documents of code, quickly highlighted the
+    bugs and made it easy to make corrections
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Being able to easily access the entire history of a files makes it easy to
+    see past versions, and easily find errors that may have been made along the
+    way.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Cons: Forget to save
+    Pro: Only saving the version you want to save
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Google Docs doesn't work with websites that have multiple files in the same site.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    the diff command allows you to easily see changes.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    You can make changes, and be confident that if something stops working or
+    doesn't look the way you wanted, you have the old file to revert to.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    making changes to my portfolio site
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+	If you manually save you can track the important changes to your document.
+
+How might using version control make you more confident to make changes that could break something?
+
+	When working on important applications, with Git you have a way to troubleshoot and track mistakes easily instead of line by line.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	Tracking major changes in my resume site code
